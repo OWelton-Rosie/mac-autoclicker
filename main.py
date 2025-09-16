@@ -1,4 +1,4 @@
-# Run with: python3 autoclicker.py
+# Run with: python3 main.py
 
 import pyautogui
 import time
