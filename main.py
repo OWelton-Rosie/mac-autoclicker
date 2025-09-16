@@ -1,4 +1,3 @@
-# autoclicker.py
 # Run with: python3 autoclicker.py
 
 import pyautogui
