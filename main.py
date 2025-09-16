@@ -7,7 +7,7 @@ from pynput import keyboard
 clicking = False
 running = True
 right_click = False  # start with left-click mode
-cps = 60  # clicks per second (adjust if you like)
+cps = 15  # clicks per second (adjust as needed)
 delay = 1 / cps
 
 def on_press(key):
