@@ -1,4 +1,4 @@
-# Run with: python3 main.py
+# for installation instructions, see README.md
 
 import pyautogui
 import time

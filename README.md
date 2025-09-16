@@ -1,7 +1,16 @@
 # mac-autoclicker
 A simple autoclicker designed for MacBook and iMac computers.
 
-**To use, execute:**
+## Requirements
+- Python 3.8 or higher
+
+## Installation
+First, install the dependencies:
+```
+python3 -m pip install -r requirements.txt
+```
+
+Then, run the program by executing:
 ```
 python3 main.py
 ```
